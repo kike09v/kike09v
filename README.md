@@ -8,6 +8,8 @@ Ingeniero de Sistemas con **7 años** de experiencia diseñando backends, integr
 
 [LinkedIn](https://www.linkedin.com/in/engineer-jose-enrique-reyes) · [GitHub](https://github.com/kike09v) · [jerb5665@gmail.com](mailto:jerb5665@gmail.com)
 
+🌐 **Portfolio:** [kike09v.github.io](https://kike09v.github.io/)
+
 ## Qué resuelvo
 
 - Backends en **Python / Django** (APIs, partida doble, inventario)
