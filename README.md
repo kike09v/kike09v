@@ -1,8 +1,8 @@
-# José Enrique Reyes
+# José Enrique Reyes B.
 
 **Ingeniero de Sistemas y Arquitecto Backend Full-Stack**
 
-Ingeniero de Sistemas con **7 años** de experiencia diseñando backends, integrando ERPs y entregando sistemas que el negocio puede operar. Hoy soy **consultor independiente y arquitecto backend** para sistemas B2B y ERPs.
+Ingeniero de Sistemas con **más de 8 años** de experiencia diseñando backends, integrando ERPs y entregando sistemas que el negocio puede operar. Hoy soy **consultor independiente y arquitecto backend** para sistemas B2B y ERPs.
 
 *Systems Engineer and full-stack backend architect. 7 years building Django backends, ERP migrations, and B2B systems.*
 
@@ -27,13 +27,13 @@ Lideré el equipo de sistemas. Migración a **NetSuite** y **SAP**, digitalizaci
 
 ## Proyectos
 
-**CRM Bóveda Caracas** — sistema financiero empresarial de partida doble y gestión de inventario. **Django**, **PostgreSQL**, VPS (**Linux, Nginx, Gunicorn**).
+**Sistema de gestión financiera** — caso de estudio anonimizado de una aplicación empresarial basada en contabilidad de partida doble. **Django**, **PostgreSQL**, VPS (**Linux, Nginx, Gunicorn**).
 
 **World Cup Predictions** — aplicación web open-source de quinielas deportivas con tablas de posiciones en tiempo real. **Django**.
 
 ## Stack
 
-`Python` `Django` `DRF` `PostgreSQL` `Angular` `PHP` `Laravel` `SAP` `NetSuite` `Linux` `Nginx` `Gunicorn`
+`Python` `Django` `DRF` `PostgreSQL` `Angular` `SAP` `NetSuite` `Linux` `Nginx` `Gunicorn`
 
 ## Formación
 
