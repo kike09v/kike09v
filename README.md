@@ -37,6 +37,3 @@ Lideré el equipo de sistemas. Migración a **NetSuite** y **SAP**, digitalizaci
 
 Ingeniero de Sistemas — Universidad Bicentenaria de Aragua (UBA), 2013–2019.
 
----
-
-Este repositorio también es el código del portfolio web (`npm install && npm run dev`). Para usarlo como portada de GitHub, copia este `README.md` al repositorio `kike09v/kike09v`.
